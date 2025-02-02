@@ -1,4 +1,4 @@
-## Heyo! I'm Derek 🥮
+## Heyo! It's Derek 🥮
 
 - I'm a Taiwanese American based in the Midwest
 - Checkout my website to learn more: [yuderekyu.github.io](https://yuderekyu.github.io/)
