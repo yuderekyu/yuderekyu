@@ -1,5 +1,6 @@
-## Hi there 👋
+## Heyo! I'm Derek 🥮
 
+I'm a Taiwanese American based in the Midwest. Checkout my website to learn more: [yuderekyu.github.io](yuderekyu.github.io]
 <!--
 **yuderekyu/yuderekyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
