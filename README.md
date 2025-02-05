@@ -1,7 +1,9 @@
-## Heyo! It's Derek 🥮
+## Heyo! It's Derek
 
-- I'm a Taiwanese American based in the Midwest.
-- Checkout my personal site: [yuderekyu.github.io](https://yuderekyu.github.io/)
+- 🫚 I'm a Taiwanese American based in the Midwest
+- 🗣️ My mandarin is a work in progress
+- 🤙 Ask me about my climbing hold and grip training collection
+- 🟪 My personal site: [yuderekyu.github.io](https://yuderekyu.github.io/)
 <!--
 **yuderekyu/yuderekyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
